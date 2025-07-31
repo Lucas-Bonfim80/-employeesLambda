@@ -41,8 +41,8 @@ public class Employees {
 
     @Override
     public String toString() {
-        return "Nome: " + name +
+        return "Name: " + name +
                 ", Email: " + email +
-                ", Salario: " + salary ;
+                ", Salary: " + salary ;
     }
 }
